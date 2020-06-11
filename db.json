@@ -1,52 +1,64 @@
 {
   "posts": [
-   {
+  {
           "name": "Vega",
-          "id": "1"
+          "id": "1",
+          "description": "Imaginative"
         },
         {
           "name": "Lyra",
-          "id": "2"
+          "id": "2",
+          "description": "Dynamic"
         },
         {
           "name": "Aarshia",
-          "id": "3"
+          "id": "3",
+          "description": "Confident"
         },
         {
           "name": "Reedoy",
-          "id": "4"
+          "id": "4",
+          "description": "Awesome"
         },
         {
           "name": "Ridi",
-          "id": "5"
+          "id": "5",
+          "description": "Joyful"
         },
         {
           "name": "Varnika",
-          "id": "6"
+          "id": "6",
+          "description": "Loving"
         },
         {
           "name": "Pragnya",
-          "id": "7"
+          "id": "7",
+          "description": "Gracious"
         },
         {
           "name": "Surya",
-          "id": "8"
+          "id": "8",
+          "description": "Fearless"
         },
         {
           "name": "Tinku",
-          "id": "9"
+          "id": "9",
+          "description": "Sociable"
         },
         {
           "name": "Tanku",
-          "id": "10"
+          "id": "10",
+          "description": "Merry"
         },
         {
           "name": "Medha",
-          "id": "11"
+          "id": "11",
+          "description": "Fun-loving"
         },
         {
           "name": "Krish",
-          "id": "12"
+          "id": "12",
+          "description": "Energetic"
         }
   ],
   "profile": {
