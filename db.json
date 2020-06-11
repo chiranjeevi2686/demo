@@ -1,9 +1,53 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+   {
+          "name": "Vega",
+          "id": "1"
+        },
+        {
+          "name": "Lyra",
+          "id": "2"
+        },
+        {
+          "name": "Aarshia",
+          "id": "3"
+        },
+        {
+          "name": "Reedoy",
+          "id": "4"
+        },
+        {
+          "name": "Ridi",
+          "id": "5"
+        },
+        {
+          "name": "Varnika",
+          "id": "6"
+        },
+        {
+          "name": "Pragnya",
+          "id": "7"
+        },
+        {
+          "name": "Surya",
+          "id": "8"
+        },
+        {
+          "name": "Tinku",
+          "id": "9"
+        },
+        {
+          "name": "Tanku",
+          "id": "10"
+        },
+        {
+          "name": "Medha",
+          "id": "11"
+        },
+        {
+          "name": "Krish",
+          "id": "12"
+        }
   ],
   "profile": {
     "name": "typicode"
